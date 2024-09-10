@@ -11,6 +11,7 @@ namespace ejercicio_repos6
         static void Main(string[] args)
         {
             Double Num1, Num2;
+            int i = 0;
             Double Suma = 0, Multi = 0, Div = 0;
             Console.WriteLine("Ingrese el numero 1: ");
             Num1 = Double.Parse(Console.ReadLine());
